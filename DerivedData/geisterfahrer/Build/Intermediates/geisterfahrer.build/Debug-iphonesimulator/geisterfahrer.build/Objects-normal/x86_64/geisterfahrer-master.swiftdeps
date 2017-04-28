@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "42afeb03a2e447471eb379a2779e93f0"
+build_time: [546684357, 843522000]
+inputs:
+  "/Users/rezapurnamaa/Documents/UNI stuff/swift/geistfahrer/geisterfahrer/AutoFahrer.swift": [538579241, 0]
+  "/Users/rezapurnamaa/Documents/UNI stuff/swift/geistfahrer/geisterfahrer/ViewController.swift": [546518236, 0]
+  "/Users/rezapurnamaa/Documents/UNI stuff/swift/geistfahrer/geisterfahrer/HighScoreData.swift": [538583168, 0]
+  "/Users/rezapurnamaa/Documents/UNI stuff/swift/geistfahrer/geisterfahrer/HighScoreTableViewController.swift": [538583178, 0]
+  "/Users/rezapurnamaa/Documents/UNI stuff/swift/geistfahrer/geisterfahrer/GeisterFahrer.swift": [538583246, 0]
+  "/Users/rezapurnamaa/Documents/UNI stuff/swift/geistfahrer/geisterfahrer/AppDelegate.swift": [538583188, 0]
